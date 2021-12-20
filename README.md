@@ -6,6 +6,6 @@ Hi there, I'm Ilgın :purple_heart:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-7D3C98?style=flat-quare&labelColor=7D3C98&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/ilgncbk/) 
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=link)](https://www.instagram.com/ilgncbk/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=link)](mailto:ilgncbk@gmail.com) 
 
 
